@@ -204,4 +204,4 @@ https://www.kaggle.com/datasets/shahriar26s/banana-ripeness-classification-datas
 
 
 
-This project was developed as a Computer Vision and Regression project for machine learning portfolio development.
+
